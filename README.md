@@ -1,1 +1,1 @@
-# Observatorio_Digital_UFF
+# Observatorio_Digital_UFF - Este repositório é dedicado a disponibilizar exemplos de códigos em Python, que demonstram a aplicabilidade desta linguagem de programação para resolver problemas relacionados com análise de dados do mercado financeiro, criação de gráficos, coleta de dados online e análises estatísticas.
